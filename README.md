@@ -38,26 +38,6 @@
 - **HTML + JavaScript** → Web design & dynamic apps  
 
 ---
-
-### 📊 GitHub Stats & Trophies  
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Prachi-kumari-1111&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-kumari-1111&layout=compact&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Prachi-kumari-1111&theme=radical&hide_border=false" height="170" />
-</p>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Prachi-kumari-1111&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-
-
 ### 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/prachi-kumari-174a472a4">
