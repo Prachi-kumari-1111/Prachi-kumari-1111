@@ -39,21 +39,24 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats & Trophies  
+
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Prachi-kumari-1111&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-kumari-1111&layout=compact&theme=radical" height="170" />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prachi-kumari-1111&theme=radical" height="170" />
 </p>
 
 <p align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Prachi-kumari-1111&theme=dracula&row=1&column=7" />
 </p>
 
----
 
 ### 🤝 Let's Connect!
 <p align="center">
