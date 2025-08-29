@@ -49,12 +49,12 @@
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prachi-kumari-1111&theme=radical" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Prachi-kumari-1111&theme=radical&hide_border=false" height="170" />
 </p>
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Prachi-kumari-1111&theme=dracula&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prachi-kumari-1111&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 
