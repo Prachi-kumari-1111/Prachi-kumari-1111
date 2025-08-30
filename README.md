@@ -1,15 +1,15 @@
-# Hi, I'm Prachi Kumari 👩‍💻
+<h1 align="center">Hi 👋, I'm Prachi Kumari</h1>
+<h3 align="center">Aspiring Software Developer | Problem Solver</h3>
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+Coding+Journey)
+---
 
-Let's Code the Future Together! 🚀
+### 👩‍🎓 About Me
+- 🎓 B.Tech CSE (2021-2025)  
+- 💻 Passionate about **Web Development & Programming**  
+- 🌱 Currently learning **Data Structures, Algorithms & Full-Stack Development**  
+- ⚡ Love solving problems & building impactful projects  
 
-## About Me
-I'm a passionate 3rd-year B.Tech CSE student (Batch 2023-2027) eager to dive deeper into software development. I enjoy building web applications and solving problems with code. With hands-on experience in multiple programming languages, I'm excited to learn, collaborate, and contribute to exciting projects!
-
-- 🌱 Currently exploring: Advanced React and database management.
-- 👯 Open to collaborate on: Web apps or coding challenges.
-- ⚡ Fun fact: I love experimenting with new tech stacks in my free time!
+---
 
 ## Skills & Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
