@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍🎓 About Me
-- 🎓 B.Tech CSE (2021-2025)  
+- 🎓 B.Tech CSE (2023-2027)  
 - 💻 Passionate about **Web Development & Programming**  
 - 🌱 Currently learning **Data Structures, Algorithms & Full-Stack Development**  
 - ⚡ Love solving problems & building impactful projects  
