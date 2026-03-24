@@ -39,9 +39,6 @@ Check out some of my hands-on projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-kumari-1111&layout=compact&theme=radical)
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prachi-kumari-1111&theme=radical)
-
 ## Let's Connect!
 Excited to connect with tech enthusiasts! Reach out:
 
